@@ -10,6 +10,6 @@ Alias: Paulo A. Martinez, Paulo A. M. Oliveira
 
 Links to:
 - [GitHub](https://github.com/pacm93)
-- [LinkedIn](http://www.linkedin.com/in/paulo-martinez/)
+- [LinkedIn](https://www.linkedin.com/in/paulo-martinez/)
 
 Last update: 26. Nov 2017
