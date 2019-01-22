@@ -2,9 +2,9 @@
 
 ### Mini bio
 
-I received the B.Sc. in electronics engineering from the Universidade Federal de Pernambuco (UFPE), Brazil, in 2016. In 2014-2015, I did an exchange at the University of Erlangen-Nuremberg (FAU), Germany. Currently, I am pursuing a M.Sc. in Communications and Multimedia Engineering at FAU.
-
-I am interested, among other things, in multimedia signal processing, mathematical optimization and algorithm approximation for power and energy-constrained systems.
+I received the B.Sc. in electronics engineering from the Universidade Federal de Pernambuco (UFPE), Brazil, in 2016
+and the M.Sc. in Communications and Multimedia Engineering at the University of Erlangen-Nuremberg (FAU), Germany, in 2018. 
+Currently, I am working in the IT Security Infrastructures Lab of FAU.
 
 Alias: Paulo A. Martinez, Paulo A. M. Oliveira
 
