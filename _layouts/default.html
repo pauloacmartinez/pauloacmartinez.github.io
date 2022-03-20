@@ -42,7 +42,14 @@
         <ul></ul>
       </nav>
       <section>
-        {{ content }}
+        <style>
+          .content {
+            border-left: 1em solid transparent;
+            border-right: 1em solid transparent;
+            text-align: justify;
+          }
+        </style>
+        <div class="content">{{ content }}</div>
 
       </section>
       <footer>
